@@ -1,0 +1,50 @@
+1,Acrylic Paint Set,10,19.99
+2,Watercolor Brushes,5,12.99
+3,Sketchbook,20,7.99
+4,Canvas Panels,15,9.99
+5,Colored Pencils Set,8,14.99
+6,Oil Paint Set,12,24.99
+7,Calligraphy Pen Set,6,8.99
+8,Charcoal Pencils,10,6.99
+9,Palette Knife Set,4,11.99
+10,Graphite Pencils Set,15,9.99
+11,Watercolor Paper Pad,10,12.99
+12,Acrylic Paint Brushes,7,15.99
+13,Modeling Clay Set,20,10.99
+14,Art Marker Set,10,16.99
+15,Wooden Easel,3,29.99
+16,Ink Pens Set,8,9.99
+17,Sketching Pencils Set,12,8.99
+18,Canvases,20,12.99
+19,Brush Cleaner,5,6.99
+20,Calligraphy Ink Set,4,13.99
+21,Art Knife Set,6,7.99
+22,Stretched Canvas,15,16.99
+23,Paint Palette,10,5.99
+24,Watercolor Paint Set,8,21.99
+25,Canvas Roll,3,18.99
+26,Gouache Paint Set,12,17.99
+27,Charcoal Powder,5,9.99
+28,Acrylic Medium,6,8.99
+29,Coloring Book,10,4.99
+30,Painting Apron,4,6.99
+31,Brush Set,10,9.99
+32,Art Pencils Set,8,11.99
+33,Wooden Mannequin,3,14.99
+34,Watercolor Brush Pens,10,13.99
+35,Sketching Paper,15,7.99
+36,Pastel Set,6,9.99
+37,Paint Sponges,5,4.99
+38,Brush Holder,4,5.99
+39,Canvas Pliers,3,10.99
+40,Art Portfolio Case,5,19.99
+41,Palette Cups,4,6.99
+42,Blending Stumps,8,5.99
+43,Painting Palette Knife,6,8.99
+44,Acrylic Paint Set (24 colors),10,29.99
+45,Watercolor Paint Tubes,8,16.99
+46,Charcoal Sticks,10,7.99
+47,Painting Gloves,6,4.99
+48,Ink Bottles Set,4,11.99
+49,Artists' Tape,5,3.99
+50,Painting Rags,8,4.99
